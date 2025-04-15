@@ -23,10 +23,9 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    url:/files/Endalk_CV_Updated.pdf
-    
+  -- title: "CV"
+     url: /files/Endalk_CV_Updated.pdf
+
   # - title: "CV"
   #   url: /cv-json/
     

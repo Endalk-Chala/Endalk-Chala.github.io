@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
 
 My research explores the intersections of journalism, political communication, and digital media systems in Ethiopia and across the African continent. I focus on communities in liminality—those navigating displacement, resettlement, and contested identities—and how they use digital platforms to shape discourse, mobilize support, and challenge dominant narratives. This includes a particular emphasis on resettled communities in the United States, especially those from the Horn of Africa, whose digital media practices offer insight into transnational activism, diasporic identity formation, and platform-based public engagement.
 

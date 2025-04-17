@@ -56,4 +56,3 @@ I have taught at a range of institutions—public and private, in the United Sta
 - FLEn 404: Public Speaking  
 - FLEn 405: Senior Capstone Project  
 - FLEn 421: Sociolinguistics  
-

@@ -18,32 +18,42 @@ My research draws on a mixed-methods approach that integrates ethnographic field
 
 ### Cyber Strategies and Diaspora Dynamics
 
-This project investigates how insurgent groups leverage diaspora media platforms—such as YouTube, Telegram, and GoFundMe—to finance conflict, shape narratives, and claim legitimacy during the Ethiopian civil war.  
-👉 [GitHub Repository](https://github.com/Endalk-Chala/twin-cities-news-comparison)
+This collaborative project, conducted with Dr. Seife Ayalew and Dr. Terrence Lyons, investigates the financing mechanisms and mobilization strategies of ethnic-based insurgent groups in Ethiopia, with a particular focus on the Tigray People’s Liberation Front (TPLF), the Amhara militia known as Fano, and the Oromo Liberation Army (OLA). We examine how members of the Ethiopian diaspora in the United States use digital platforms—especially GoFundMe—to raise funds and frame their support for these armed groups.
+
+Drawing from a multi-methods approach that combines digital ethnography, content analysis, and both qualitative and quantitative analyses of online fundraising activities, the research explores the communicative and financial infrastructure that underpins contemporary insurgency. Although the dataset—comprising publicly available GoFundMe pages—is not yet archived in a public repository, this project reflects my broader commitment to data transparency and open research design.
+
+Preliminary findings from the study were presented at the International Studies Association (ISA) Annual Conference in Chicago on March 5, 2025. The full article, titled Cyber Strategies and Diaspora Dynamics: Exploring Digital Financing in Ethnic Insurgencies in Ethiopia, is currently under review for a special issue of The Civil Wars journal.
 
 ---
 
-### The Digital Public Sphere at the Local Level
+### Twin Cities News Comparison
+A Digital Content Analysis of Nonprofit News Coverage in the Twin Cities
 
-A comparative study of local newsrooms in the Twin Cities (MinnPost, Sahan Journal, and TwinCities.com), this research explores how these outlets foster or fragment community dialogue through social media, comment sections, and editorial strategies.
+This project investigates how two leading nonprofit newsrooms in the Twin Cities—MinnPost and Sahan Journal—frame and report on key civic issues including public safety, educational inequities, and environmental justice. Through a comparative content analysis, the research explores how these outlets construct narratives, represent marginalized voices, and navigate institutional roles within a changing local media landscape.
 
----
+The study draws on web scraping, qualitative coding, and comparative analysis to examine the editorial strategies of each newsroom. It pays particular attention to how nonprofit media construct “the public,” engage their audiences, and reflect (or fail to reflect) racial and structural realities in their coverage.
 
-### Journalist Safety in Conflict Zones
+This project responds to the growing significance of nonprofit journalism as a civic institution, while critically interrogating whose voices are amplified, how journalistic authority is performed, and what narratives shape community understanding of structural issues.
 
-This project examines the evolving risks facing Ethiopian journalists, particularly during periods of state violence and conflict. It traces strategies for survival, self-censorship, and resistance from 1992 to the post-Tigray War era.
+The research is fully documented in an open-access GitHub repository, which includes data, scraping tools, and coding documentation:
+
+👉 GitHub Repository: Twin Cities News Comparison
 
 ---
 
 ### Media Framing of the Tigray Conflict
 
-A qualitative content analysis comparing Ethiopian government-owned media (*Addis Zemen*, *The Ethiopian Herald*) with U.S. press (*The New York Times*, *The Washington Post*), focusing on narrative framing, sourcing, tone, and audience positioning from November 2020–2022.
+A Comparative Analysis of Ethiopian and U.S. News Coverage
+
+In collaboration with Dr. Tewodros Workneh, this research project analyzes how the Tigray conflict (2020–2022) was framed in both domestic and international media. Conducted as part of a forthcoming book chapter, the study compares Ethiopian state-owned newspapers (Addis Zemen and The Ethiopian Herald) with major U.S. outlets (The New York Times and The Washington Post), focusing on narrative construction, sourcing practices, tone, and audience positioning.
+
+Using qualitative content analysis, the research interrogates how divergent political, institutional, and cultural contexts shaped the storytelling of the war. It explores how each media system represents conflict actors, assigns blame or legitimacy, and appeals to different publics. By situating this analysis within broader conversations on media polarization and transnational narratives of war, the project contributes to ongoing debates on representation, state influence, and media ethics in times of political crisis.
 
 ---
 
 ## Methods & Tools
 
-- Ethnographic content analysis (Altheide & Schneider, 2013)  
+- Ethnographic content analysis   
 - Semi-structured interviews  
 - Digital scraping and dataset construction using:
   - `Newspaper3k`  

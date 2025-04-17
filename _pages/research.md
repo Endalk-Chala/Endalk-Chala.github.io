@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-My research explores the intersections of journalism, political communication, and digital media systems in Ethiopia and across the African continent. I focus on communities in liminality—those navigating displacement, resettlement, and contested identities—and how they use digital platforms to shape discourse, mobilize support, and challenge dominant narratives. This includes a particular emphasis on resettled communities in the United States, especially those from the Horn of Africa, whose digital media practices offer insight into transnational activism, diasporic identity formation, and platform-based public engagement.
+My research examines the interplay between journalism, political communication, and digital media systems, with a regional focus on Ethiopia, the broader Sub-Saharan context, and resettled communities in the United States—particularly those from the Horn of Africa. At its core, my work interrogates how communities in liminality—those navigating displacement, sociopolitical uncertainty, and reconfigured identities—use digital platforms to construct public narratives, engage in civic discourse, and negotiate transnational belonging.
 
-I also study media systems in the Sub-Saharan African context more broadly, examining how social platforms are reconfiguring political discourse, institutional trust, and social relations. My work is grounded in African media systems and informed by global conversations on platform governance, content moderation, and digital resistance.
+In these liminal spaces, digital technologies not only mediate political expression but also reshape interpersonal communication and social cohesion. I explore how online engagement transforms everyday interaction, erodes or reinforces trust, and influences how individuals and communities experience and perform identity across borders.
 
-I employ a mix of qualitative and computational methods, including ethnographic fieldwork, semi-structured interviews, comparative content analysis, and digital scraping.
+My research draws on a mixed-methods approach that integrates ethnographic fieldwork, qualitative content analysis, and digital tools such as web scraping, data visualization, and computational text analysis. These methods allow me to trace how platform infrastructures shape discursive norms, mediate institutional trust, and reconfigure both interpersonal communication and broader public spheres. This page serves as a space for curating my research process, sharing datasets, and promoting transparency in scholarly work. It also reflects my broader commitment to advancing the use of digital methodologies within African media and communication research, where such tools remain underutilized. Grounded in African media ecologies and diasporic experiences, my work contributes to global conversations on platform governance, content moderation, and the communicative dynamics of digital resistance.
 
 ---
 

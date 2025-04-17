@@ -26,8 +26,8 @@ Preliminary findings from the study were presented at the International Studies 
 
 ---
 
-### Twin Cities News Comparison
-A Digital Content Analysis of Nonprofit News Coverage in the Twin Cities
+### 🔹 Twin Cities News Comparison  
+*A Digital Content Analysis of Nonprofit News Coverage in the Twin Cities*
 
 This project investigates how two leading nonprofit newsrooms in the Twin Cities—MinnPost and Sahan Journal—frame and report on key civic issues including public safety, educational inequities, and environmental justice. Through a comparative content analysis, the research explores how these outlets construct narratives, represent marginalized voices, and navigate institutional roles within a changing local media landscape.
 
@@ -35,9 +35,8 @@ The study draws on web scraping, qualitative coding, and comparative analysis to
 
 This project responds to the growing significance of nonprofit journalism as a civic institution, while critically interrogating whose voices are amplified, how journalistic authority is performed, and what narratives shape community understanding of structural issues.
 
-The research is fully documented in an open-access GitHub repository, which includes data, scraping tools, and coding documentation:
-
-👉 GitHub Repository: Twin Cities News Comparison
+The research is fully documented in an open-access GitHub repository, which includes data, scraping tools, and coding documentation:  
+👉 [GitHub Repository: Twin Cities News Comparison](https://github.com/Endalk-Chala/nonprofit-news-twin-cities)
 
 ---
 

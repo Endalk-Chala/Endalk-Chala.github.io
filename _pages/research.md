@@ -16,7 +16,7 @@ My research draws on a mixed-methods approach that integrates ethnographic field
 
 ## Current Projects
 
-### Cyber Strategies and Diaspora Dynamics
+### 🔹 Cyber Strategies and Diaspora Dynamics
 
 This collaborative project, conducted with Dr. Seife Ayalew and Dr. Terrence Lyons, investigates the financing mechanisms and mobilization strategies of ethnic-based insurgent groups in Ethiopia, with a particular focus on the Tigray People’s Liberation Front (TPLF), the Amhara militia known as Fano, and the Oromo Liberation Army (OLA). We examine how members of the Ethiopian diaspora in the United States use digital platforms—especially GoFundMe—to raise funds and frame their support for these armed groups.
 
@@ -40,7 +40,7 @@ The research is fully documented in an open-access GitHub repository, which incl
 
 ---
 
-### Media Framing of the Tigray Conflict
+### 🔹 Media Framing of the Tigray Conflict 
 
 A Comparative Analysis of Ethiopian and U.S. News Coverage
 

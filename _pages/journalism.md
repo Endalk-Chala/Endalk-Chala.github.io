@@ -5,8 +5,6 @@ permalink: /journalism/
 author_profile: true
 ---
 
-# Journalism
-
 My journalism centers on the lived experiences of communities in liminality—individuals and families navigating displacement, resettlement, and cultural adaptation. I document how immigrant and diasporic communities, particularly from the Horn of Africa, negotiate life in new environments through the lens of education, healthcare, food, language, and everyday survival.
 
 For me, journalism is a form of public scholarship. It extends beyond storytelling to bring attention to underreported issues, foster dialogue, and create openings for deeper scholarly inquiry. I see reporting as a civic practice—an effort to amplify marginalized voices, surface overlooked narratives, and contribute to broader conversations about justice, identity, and belonging.

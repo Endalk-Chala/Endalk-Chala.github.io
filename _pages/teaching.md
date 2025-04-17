@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
 
 As an educator, I approach the classroom as a space for inquiry, reflection, and dialogue. I encourage students to critically examine how communication shapes individual identity, community relationships, and broader political and cultural structures. Whether teaching media theory or public speaking, I emphasize engaged pedagogy—drawing connections between academic content and the lived experiences of students, especially those from historically underrepresented communities.
 

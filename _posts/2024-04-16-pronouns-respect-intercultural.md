@@ -1,6 +1,6 @@
 ---
 title: "The Pronoun Gap: Teaching Care and Clarity in Intercultural Contexts: A Reflection from the Intercultural Classroom"
-layout: post
+layout: archive
 date: 2024-04-16
 author_profile: true
 ---

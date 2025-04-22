@@ -1,4 +1,3 @@
-# 📰 Framing Local Publics: Reflections from a Nonprofit News Content Analysis
 
 Over the past few weeks, I’ve been laying the groundwork for a digital content analysis project focused on nonprofit journalism in the Twin Cities. The aim is to examine how two prominent local outlets—*MinnPost* and *Sahan Journal*—frame structurally embedded issues such as public safety, education, and environmental justice, and in doing so, how they construct and define their publics.
 

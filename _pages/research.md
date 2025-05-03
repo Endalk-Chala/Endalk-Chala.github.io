@@ -16,13 +16,16 @@ My research draws on a mixed-methods approach that integrates ethnographic field
 
 ## Current Projects
 
-### 🔹 Cyber Strategies and Diaspora Dynamics
+### 🔹 Crowdsourcing Rebellion: Digital Diasporas and Insurgent Financing in Ethiopia
 
 This collaborative project, conducted with Dr. Seife Ayalew and Dr. Terrence Lyons, investigates the financing mechanisms and mobilization strategies of ethnic-based insurgent groups in Ethiopia, with a particular focus on the Tigray People’s Liberation Front (TPLF), the Amhara militia known as Fano, and the Oromo Liberation Army (OLA). We examine how members of the Ethiopian diaspora in the United States use digital platforms—especially GoFundMe—to raise funds and frame their support for these armed groups.
 
 Drawing from a multi-methods approach that combines digital ethnography, content analysis, and both qualitative and quantitative analyses of online fundraising activities, the research explores the communicative and financial infrastructure that underpins contemporary insurgency. Although the dataset—comprising publicly available GoFundMe pages—is not yet archived in a public repository, this project reflects my broader commitment to data transparency and open research design.
 
-Preliminary findings from the study were presented at the International Studies Association (ISA) Annual Conference in Chicago on March 5, 2025. The full article, titled Cyber Strategies and Diaspora Dynamics: Exploring Digital Financing in Ethnic Insurgencies in Ethiopia, is currently under review for a special issue of The Civil Wars journal.
+Preliminary findings from the study were presented at the International Studies Association (ISA) Annual Conference in Chicago on March 5, 2025. The full article, titled *Cyber Strategies and Diaspora Dynamics: Exploring Digital Financing in Ethnic Insurgencies in Ethiopia*, is currently under review for a special issue of *The Civil Wars* journal.
+
+👉 [View the GitHub repository](https://github.com/Endalk-Chala/Crowdsourcing-Rebellion)
+
 
 ---
 
